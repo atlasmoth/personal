@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am an autodidact, information scientist, self-taught software developer and decorated pro debater. I have a bachelor's degree in Library and Information Science from Imo State University(Second Class Upper Division, 4.28/5.0). I am proficient in Javascript, Go, several programming frameworks, paradigms and databases . I previously worked at [BLAS Initiative](https://blasinitiative.org/) where i was an evangelist for competitive debating and literary activities in schools and co-organized/co-hosted outreaches and radio programs for cancer awareness while moonlighting as a debate coach for the Imo state University and University of Nigeria debating unions. I am interested in applications of software engineering, information science and critical thinking in business and public policy.
+I am an information scientist, self-taught software developer and decorated pro debater. I have a bachelor's degree in Library and Information Science from Imo State University(Second Class Upper Division, 4.28/5.0).I am proficient in Javascript, Go, several programming frameworks, paradigms and databases . I previously worked at [BLAS Initiative](https://blasinitiative.org/) where i was an evangelist for competitive debating and literary activities in schools and co-organized/co-hosted outreaches and radio programs for cancer awareness while moonlighting as a debate coach for the Imo state University and University of Nigeria debating unions. I am interested in applications of software engineering, information science and critical thinking in business and public policy.
 
 ## Contact
 
