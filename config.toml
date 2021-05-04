@@ -11,7 +11,7 @@ publishDir = "docs"
   description = "My personal Website"
   favicon = "favicon.ico" 
   [params.footer]
-    text = "By"
+    text = "By Osuji Chukwuebuka"
     url = "https://github.com/atlasmoth"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
