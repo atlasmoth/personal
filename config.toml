@@ -11,8 +11,8 @@ publishDir = "docs"
   description = "My personal Website"
   favicon = "favicon.ico" 
   [params.footer]
-    text = "Built with hugo-researcher"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "By"
+    url = "https://github.com/atlasmoth"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
