@@ -9,6 +9,9 @@ Excellent collectibles from the internetz
 - Nassim Taleb & Pasquale Cirrilo:[Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
 - Simon Wood:[Core Statistics](https://www.maths.ed.ac.uk/~swood34/core-statistics-nup.pdf)
 - Zoa de Wijn:[Semiparametric Regression](https://esc.fnwi.uva.nl/thesis/centraal/files/f977427964.pdf)
+- Jennifer Hill: [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
+- Richard Hahn: [Bayesian regression tree models for causal inference](https://arxiv.org/pdf/1706.09523.pdf)
+- Pennington: [Bayesian model averaging](https://doi.org/10.1007/s11222-017-9767-1)
 
 ## Information Theory and Complexity
 
