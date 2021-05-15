@@ -14,6 +14,8 @@ Excellent collectibles from the internetz
 - Pennington: [Bayesian model averaging](https://doi.org/10.1007/s11222-017-9767-1)
 - Jennifer Starling: [Bayesian methods for complex data structures](https://repositories.lib.utexas.edu/bitstream/handle/2152/85348/STARLING-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
 - Iris Koks: [Latent Dirichlet Allocation](https://repository.tudelft.nl/islandora/object/uuid%3Afaa7cd3f-a946-4685-a36e-d01a15c4159e)
+- Michael Kane: [Stochastic approximation of Polya urn process](http://www.stat.yale.edu/~mjk56/Research/Optimization/OptFinalKane.pdf)
+- Mark Ebden: [Gaussian Processes](https://arxiv.org/abs/1505.02965)
 
 ## Information Theory and Complexity
 
