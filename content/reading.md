@@ -12,6 +12,8 @@ Excellent collectibles from the internetz
 - Jennifer Hill: [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
 - Richard Hahn: [Bayesian regression tree models for causal inference](https://arxiv.org/pdf/1706.09523.pdf)
 - Pennington: [Bayesian model averaging](https://doi.org/10.1007/s11222-017-9767-1)
+- Jennifer Starling: [Bayesian methods for complex data structures](https://repositories.lib.utexas.edu/bitstream/handle/2152/85348/STARLING-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
+- Iris Koks: [Latent Dirichlet Allocation](https://repository.tudelft.nl/islandora/object/uuid%3Afaa7cd3f-a946-4685-a36e-d01a15c4159e)
 
 ## Information Theory and Complexity
 
