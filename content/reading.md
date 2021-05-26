@@ -16,6 +16,9 @@ Excellent collectibles from the internetz
 - Iris Koks: [Latent Dirichlet Allocation](https://repository.tudelft.nl/islandora/object/uuid%3Afaa7cd3f-a946-4685-a36e-d01a15c4159e)
 - Michael Kane: [Stochastic approximation of Polya urn process](http://www.stat.yale.edu/~mjk56/Research/Optimization/OptFinalKane.pdf)
 - Mark Ebden: [Gaussian Processes](https://arxiv.org/abs/1505.02965)
+- Vasilis Vryniotis[Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
+- [Nonparametric bayes & Dirichlet proceses](https://www.cs.uic.edu/~apanella/slides/nonparametric_bayes.pdf)
+- Guy Wolf[Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
 
 ## Information Theory and Complexity
 
