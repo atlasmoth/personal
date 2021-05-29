@@ -19,6 +19,8 @@ Excellent collectibles from the internetz
 - Vasilis Vryniotis[Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
 - [Nonparametric bayes & Dirichlet proceses](https://www.cs.uic.edu/~apanella/slides/nonparametric_bayes.pdf)
 - Guy Wolf[Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
+- Alberto Caron[Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
+- Antonio Ricardo[Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
 
 ## Information Theory and Complexity
 
