@@ -21,6 +21,8 @@ Excellent collectibles from the internetz
 - Guy Wolf[Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
 - Alberto Caron[Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
 - Antonio Ricardo[Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
+- Jens Hainmueller[Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
+- IgorBraga[Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
 
 ## Information Theory and Complexity
 
