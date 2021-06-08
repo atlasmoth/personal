@@ -16,14 +16,16 @@ Excellent collectibles from the internetz
 - Iris Koks: [Latent Dirichlet Allocation](https://repository.tudelft.nl/islandora/object/uuid%3Afaa7cd3f-a946-4685-a36e-d01a15c4159e)
 - Michael Kane: [Stochastic approximation of Polya urn process](http://www.stat.yale.edu/~mjk56/Research/Optimization/OptFinalKane.pdf)
 - Mark Ebden: [Gaussian Processes](https://arxiv.org/abs/1505.02965)
-- Vasilis Vryniotis[Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
+- Vasilis Vryniotis [Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
 - [Nonparametric bayes & Dirichlet proceses](https://www.cs.uic.edu/~apanella/slides/nonparametric_bayes.pdf)
-- Guy Wolf[Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
-- Alberto Caron[Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
-- Antonio Ricardo[Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
-- Jens Hainmueller[Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
-- IgorBraga[Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
-- Yanxun Xu[Bayesian Nonparametric Estimation for Dynamic Treatment Regimes with Sequential Transition Times](https://arxiv.org/pdf/1405.2656.pdf)
+- Guy Wolf [Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
+- Alberto Caron [Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
+- Antonio Ricardo [Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
+- Jens Hainmueller [Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
+- IgorBraga [Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
+- Yanxun Xu [Bayesian Nonparametric Estimation for Dynamic Treatment Regimes with Sequential Transition Times](https://arxiv.org/pdf/1405.2656.pdf)
+- António M. Lopes [Dynamical Analysis of the Dow Jones Index Using Dimensionality Reduction and Visualization](https://www.mdpi.com/1099-4300/23/5/600/html)
+- Mebarka Allaoui [Considerably Improving Clustering Algorithms Using UMAP Dimensionality Reduction Technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340901/pdf/978-3-030-51935-3_Chapter_34.pdf)
 
 ## Information Theory and Complexity
 
