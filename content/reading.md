@@ -26,6 +26,9 @@ Excellent collectibles from the internetz
 - Yanxun Xu [Bayesian Nonparametric Estimation for Dynamic Treatment Regimes with Sequential Transition Times](https://arxiv.org/pdf/1405.2656.pdf)
 - António M. Lopes [Dynamical Analysis of the Dow Jones Index Using Dimensionality Reduction and Visualization](https://www.mdpi.com/1099-4300/23/5/600/html)
 - Mebarka Allaoui [Considerably Improving Clustering Algorithms Using UMAP Dimensionality Reduction Technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340901/pdf/978-3-030-51935-3_Chapter_34.pdf)
+- Qingtao Tang[Student-t Process Regression with ependent Student-t noise](https://dl.acm.org/doi/pdf/10.3233/978-1-61499-672-9-82)
+- Brendan D. Tracey[Upgrading from Gaussian Processes to Student’s-T Processes](https://arxiv.org/pdf/1801.06147.pdf)
+- David Duvenaud[Additive Gaussian Processes](https://arxiv.org/pdf/1112.4394.pdf)
 
 ## Information Theory and Complexity
 
