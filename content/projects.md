@@ -7,6 +7,7 @@ title = "Projects"
 Most of my projects can be found on
 [GitHub](https://github.com/atlasmoth).
 
+- Local Foods [Fullstack app to find and book tables at restaurants near you using next.js , mongo db and stripe, db seeded with zomato data from kaggle.](https://github.com/atlasmoth/local-Foods)
 - [Twitter Clone with Node/Express Socketio and MongoDB ](https://github.com/atlasmoth/Twitter-clone)
 - [Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,next.js and websockets in go](https://github.com/atlasmoth/Libre-docs). [Go server](https://github.com/atlasmoth/LibreDocs-server)
 - [Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer](https://github.com/atlasmoth/Clubhouse-clone). [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
