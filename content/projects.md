@@ -10,13 +10,14 @@ Most of my projects can be found on
 - Local Foods [Fullstack app to find and book tables at restaurants near you using next.js , mongo db and stripe, db seeded with zomato data from kaggle.](https://github.com/atlasmoth/local-Foods)
 - Twitter Clone [Twitter Clone with Node/Express Socketio and MongoDB ](https://github.com/atlasmoth/Twitter-clone)
 
--Libre Docs [Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,next.js and websockets in go](https://github.com/atlasmoth/Libre-docs).
+- Libre Docs [Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,next.js and websockets in go](https://github.com/atlasmoth/Libre-docs).
 
--Clubhouse Clone [Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer](https://github.com/atlasmoth/Clubhouse-clone).Node.js server - [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
--Kippa clone [Simple Bookkeeping app for sole proprietors with auth0, next.js, material-ui, mongo db and recharts](https://github.com/atlasmoth/Kippa-clone)
+- Clubhouse Clone [Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer](https://github.com/atlasmoth/Clubhouse-clone).Node.js server - [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
 
--Remote-ok Clone [Remote.io Clone with Node/express next.js MongoDB,mapbox and braintree](https://github.com/atlasmoth/remoteOk-clone-with-next.js-stripe-and-mongo-DB)
+- Kippa clone [Simple Bookkeeping app for sole proprietors with auth0, next.js, material-ui, mongo db and recharts](https://github.com/atlasmoth/Kippa-clone)
 
--Audio Visualizer [Audio Visualizer with Canvas and web APIS](https://github.com/atlasmoth/fun-projects/tree/master/viz)
+- Remote-ok Clone [Remote.io Clone with Node/express next.js MongoDB,mapbox and braintree](https://github.com/atlasmoth/remoteOk-clone-with-next.js-stripe-and-mongo-DB)
 
--Video scaper [Puppeteer script for video scraping and conversion](https://github.com/atlasmoth/Video-Scraper-and-converter)
+- Audio Visualizer [Audio Visualizer with Canvas and web APIS](https://github.com/atlasmoth/fun-projects/tree/master/viz)
+
+- Video scaper [Puppeteer script for video scraping and conversion](https://github.com/atlasmoth/Video-Scraper-and-converter)
