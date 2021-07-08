@@ -29,6 +29,7 @@ Excellent collectibles from the internetz
 - Qingtao Tang[Student-t Process Regression with ependent Student-t noise](https://dl.acm.org/doi/pdf/10.3233/978-1-61499-672-9-82)
 - Brendan D. Tracey[Upgrading from Gaussian Processes to Student’s-T Processes](https://arxiv.org/pdf/1801.06147.pdf)
 - David Duvenaud[Additive Gaussian Processes](https://arxiv.org/pdf/1112.4394.pdf)
+- David Duvenaud [Kernel Cookbook](https://www.cs.toronto.edu/~duvenaud/cookbook/)
 
 ## Information Theory and Complexity
 
@@ -56,3 +57,4 @@ Excellent collectibles from the internetz
 ## Malignancies and Health
 
 - Thomas Seyfried:[Cancer as a metabolic disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3941741/)
+- Kshitiz [Evolution of placental invasion and cancer metastasis are causally linked](https://www.nature.com/articles/s41559-019-1046-4)
