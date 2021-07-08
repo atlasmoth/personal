@@ -13,6 +13,7 @@ Most of my projects can be found on
 -Libre Docs [Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,next.js and websockets in go](https://github.com/atlasmoth/Libre-docs).
 
 -Clubhouse Clone [Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer](https://github.com/atlasmoth/Clubhouse-clone).Node.js server - [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
+-Kippa clone [Simple Bookkeeping app for sole proprietors with auth0, next.js, material-ui, mongo db and recharts](https://github.com/atlasmoth/Kippa-clone)
 
 -Remote-ok Clone [Remote.io Clone with Node/express next.js MongoDB,mapbox and braintree](https://github.com/atlasmoth/remoteOk-clone-with-next.js-stripe-and-mongo-DB)
 
