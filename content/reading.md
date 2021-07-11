@@ -30,6 +30,8 @@ Excellent collectibles from the internetz
 - Brendan D. Tracey[Upgrading from Gaussian Processes to Student’s-T Processes](https://arxiv.org/pdf/1801.06147.pdf)
 - David Duvenaud[Additive Gaussian Processes](https://arxiv.org/pdf/1112.4394.pdf)
 - David Duvenaud [Kernel Cookbook](https://www.cs.toronto.edu/~duvenaud/cookbook/)
+- Cagatay Yildiz [LEARNING STOCHASTIC DIFFERENTIAL EQUATIONS WITH GAUSSIAN PROCESSES WITHOUT GRADIENT MATCHING](https://arxiv.org/pdf/1807.05748.pdf)
+- Pable Padila [Pricing American Options Using Transition Probabilities: A Dynamical Systems Approach](https://www.scirp.org/journal/paperinformation.aspx?paperid=60395)
 
 ## Information Theory and Complexity
 
