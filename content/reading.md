@@ -55,6 +55,9 @@ Excellent collectibles from the internetz
 - Cheng Zhang:[Scalable MCMC](https://zcrabbit.github.io/static/slides/mcs_fall19/lec09.pdf)
 - Ziyu Wang:[Adaptive and Riemannian manifold MCMC](http://proceedings.mlr.press/v28/wang13e.pdf)
 - Jiayu Lin:[Dirichlet Distribution](https://mast.queensu.ca/~communications/Papers/msc-jiayu-lin.pdf)
+- Gunduz Caginalp: [Fat tails arise endogenously in asset prices from supply/demand, with or without jump processes](https://arxiv.org/abs/2011.08275)
+- Andrew Gordon Wilson: [Deep Kernel Learning](https://arxiv.org/abs/1511.02222)
+- Juan MR Parrondo: [Probability and markov chains](https://3709847b-381c-4df6-b3c2-ae934f357bfd.filesusr.com/ugd/c7de9f_fdb940fff0aa4f2f82bf0b62b124317a.pdf)
 
 ## Malignancies and Health
 
