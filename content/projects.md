@@ -16,9 +16,3 @@ Most of my projects can be found on
 -Clubhouse Clone [Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer](https://github.com/atlasmoth/Clubhouse-clone).Node.js server - [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
 
 -Kippa clone [Simple Bookkeeping app for sole proprietors with auth0, next.js, material-ui, mongo db and recharts](https://github.com/atlasmoth/Kippa-clone)
-
--Remote-ok Clone [Remote.io Clone with Node/express next.js MongoDB,mapbox and braintree](https://github.com/atlasmoth/remoteOk-clone-with-next.js-stripe-and-mongo-DB)
-
--Audio Visualizer [Audio Visualizer with Canvas and web APIS](https://github.com/atlasmoth/fun-projects/tree/master/viz)
-
--Video scaper [Puppeteer script for video scraping and conversion](https://github.com/atlasmoth/Video-Scraper-and-converter)
