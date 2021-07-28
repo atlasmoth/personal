@@ -7,11 +7,11 @@ math = false
 publishDir = "docs"      
 
 [params]
-  author = "Osuji Chukwuebuka"
-  description = "My personal Website"
+  author = "Chukwuebuka Osuji"
+  description = "Information Scientist and self-taught developer"
   favicon = "favicon.ico" 
   [params.footer]
-    text = "By Osuji Chukwuebuka"
+    text = "By Chukwuebuka Osuji"
     url = "https://github.com/atlasmoth"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"

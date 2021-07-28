@@ -32,6 +32,7 @@ Excellent collectibles from the internetz
 - David Duvenaud [Kernel Cookbook](https://www.cs.toronto.edu/~duvenaud/cookbook/)
 - Cagatay Yildiz [LEARNING STOCHASTIC DIFFERENTIAL EQUATIONS WITH GAUSSIAN PROCESSES WITHOUT GRADIENT MATCHING](https://arxiv.org/pdf/1807.05748.pdf)
 - Pable Padila [Pricing American Options Using Transition Probabilities: A Dynamical Systems Approach](https://www.scirp.org/journal/paperinformation.aspx?paperid=60395)
+- Gregory Gunderson's blog: [Multicollinearity](http://gregorygundersen.com/blog/)
 
 ## Information Theory and Complexity
 
