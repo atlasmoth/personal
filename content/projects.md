@@ -13,6 +13,8 @@ Most of my projects can be found on
 
 -Twitter Clone [Twitter Clone with Node/Express Socketio and MongoDB ](https://github.com/atlasmoth/Twitter-clone)
 
+- Remote Jobs [Post and find remote jobs. Remoteok.io clone built with mongo db, next.js and stripe, with infinity scroll](https://github.com/atlasmoth/Remotejobs)
+
 -Libre Docs [Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,next.js and websockets in go](https://github.com/atlasmoth/Libre-docs).
 
 -Clubhouse Clone [Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer](https://github.com/atlasmoth/Clubhouse-clone).Node.js server - [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
