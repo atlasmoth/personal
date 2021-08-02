@@ -6,11 +6,11 @@ Excellent collectibles from the internetz
 
 ## Statistics
 
-- Nassim Taleb & Pasquale Cirrilo:[Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
+- Nassim Taleb & Pasquale Cirrilo: [Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
 
-- Simon Wood:[Core Statistics](https://www.maths.ed.ac.uk/~swood34/core-statistics-nup.pdf)
+- Simon Wood: [Core Statistics](https://www.maths.ed.ac.uk/~swood34/core-statistics-nup.pdf)
 
-- Zoa de Wijn:[Semiparametric Regression](https://esc.fnwi.uva.nl/thesis/centraal/files/f977427964.pdf)
+- Zoa de Wijn: [Semiparametric Regression](https://esc.fnwi.uva.nl/thesis/centraal/files/f977427964.pdf)
 
 - Jennifer Hill: [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
 
@@ -26,25 +26,25 @@ Excellent collectibles from the internetz
 
 - Mark Ebden: [Gaussian Processes](https://arxiv.org/abs/1505.02965)
 
-- Vasilis Vryniotis [Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
+- Vasilis Vryniotis: [Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
 
 - [Nonparametric bayes & Dirichlet proceses](https://www.cs.uic.edu/~apanella/slides/nonparametric_bayes.pdf)
 
-- Guy Wolf [Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
+- Guy Wolf: [Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
 
-- Alberto Caron [Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
+- Alberto Caron: [Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
 
-- Antonio Ricardo [Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
+- Antonio Ricardo: [Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
 
-- Jens Hainmueller [Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
+- Jens Hainmueller: [Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
 
-- IgorBraga [Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
+- IgorBraga: [Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
 
-- Yanxun Xu [Bayesian Nonparametric Estimation for Dynamic Treatment Regimes with Sequential Transition Times](https://arxiv.org/pdf/1405.2656.pdf)
+- Yanxun Xu: [Bayesian Nonparametric Estimation for Dynamic Treatment Regimes with Sequential Transition Times](https://arxiv.org/pdf/1405.2656.pdf)
 
-- António M. Lopes [Dynamical Analysis of the Dow Jones Index Using Dimensionality Reduction and Visualization](https://www.mdpi.com/1099-4300/23/5/600/html)
+- António M. Lopes: [Dynamical Analysis of the Dow Jones Index Using Dimensionality Reduction and Visualization](https://www.mdpi.com/1099-4300/23/5/600/html)
 
-- Mebarka Allaoui [Considerably Improving Clustering Algorithms Using UMAP Dimensionality Reduction Technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340901/pdf/978-3-030-51935-3_Chapter_34.pdf)
+- Mebarka Allaoui: [Considerably Improving Clustering Algorithms Using UMAP Dimensionality Reduction Technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340901/pdf/978-3-030-51935-3_Chapter_34.pdf)
 
 - Qingtao Tang[Student-t Process Regression with ependent Student-t noise](https://dl.acm.org/doi/pdf/10.3233/978-1-61499-672-9-82)
 
@@ -61,6 +61,10 @@ Excellent collectibles from the internetz
 - Gregory Gunderson's blog: [Multicollinearity](http://gregorygundersen.com/blog/)
 
 - Jussi Lindgren [Efficient Markets and Contingent Claims Valuation: An Information Theoretic Approach](https://www.mdpi.com/1099-4300/22/11/1283)
+
+- Lisandro Kaunitz, Shenjun Zhong, Javier Kreiner [Beating the bookies with their own numbers - and how the online sports betting market is rigged](https://arxiv.org/abs/1710.02824)
+
+- Tianqi Chen, Emily B. Fox, Carlos Guestrin [Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1402.4102)
 
 ## Information Theory and Complexity
 
