@@ -2,9 +2,7 @@
 title = "Reading"
 +++
 
-Excellent collectibles from the internetz
-
-## Statistics
+## Excellent collectibles from the internetz
 
 - Nassim Taleb & Pasquale Cirrilo: [Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
 
@@ -66,8 +64,6 @@ Excellent collectibles from the internetz
 
 - Tianqi Chen, Emily B. Fox, Carlos Guestrin [Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1402.4102)
 
-## Information Theory and Complexity
-
 - Sergey Lototsky:[Kelly and levy processes](https://arxiv.org/pdf/2002.03448.pdf)
 
 - Wesselhofft:[Kelly Thesis](https://edoc.hu-berlin.de/bitstream/handle/18452/14923/wesselhoefft.pdf?sequence=1)
@@ -83,8 +79,6 @@ Excellent collectibles from the internetz
 - Aaron Clauset: [Scale free networks are rare](https://www.nature.com/articles/s41467-019-08746-5)
 
 - Brian Arthur: [Foundations of complexity economics](https://www.nature.com/articles/s42254-020-00273-3)
-
-## Probability Theory
 
 - Ole Peters:[Ergodicity in economics](https://www.nature.com/articles/s41567-019-0732-0)
 
@@ -109,8 +103,6 @@ Excellent collectibles from the internetz
 - Andrew Gordon Wilson: [Deep Kernel Learning](https://arxiv.org/abs/1511.02222)
 
 - Juan MR Parrondo: [Probability and markov chains](https://3709847b-381c-4df6-b3c2-ae934f357bfd.filesusr.com/ugd/c7de9f_fdb940fff0aa4f2f82bf0b62b124317a.pdf)
-
-## Malignancies and Health
 
 - Thomas Seyfried:[Cancer as a metabolic disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3941741/)
 
