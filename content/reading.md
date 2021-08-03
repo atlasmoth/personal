@@ -2,108 +2,190 @@
 title = "Reading"
 +++
 
-## Excellent collectibles from the internetz
+## Statisitics
 
-- Nassim Taleb & Pasquale Cirrilo: [Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
+Nassim Taleb & Pasquale Cirrilo: [Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
 
-- Simon Wood: [Core Statistics](https://www.maths.ed.ac.uk/~swood34/core-statistics-nup.pdf)
+> Applying a modification of Extreme value Theory (thanks to a dual distribution technique by the authors on data over the past 2,500 years, we show that pandemics are extremely fat-tailed in terms of fatalities, with a marked potentially existential risk for humanity.
+> Such a macro property should invite the use of Extreme Value Theory (EVT) rather than naive interpolations and expected averages for risk management purposes. An implication is that potential tail risk overrides conclusions on decisions derived from compartmental epidemiological models and similar approaches.
 
-- Zoa de Wijn: [Semiparametric Regression](https://esc.fnwi.uva.nl/thesis/centraal/files/f977427964.pdf)
+Simon Wood: [Core Statistics](https://www.maths.ed.ac.uk/~swood34/core-statistics-nup.pdf)
 
-- Jennifer Hill: [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
+> This book is aimed at the numerate reader who has probably taken an introductory statistics and probability course at some stage and would like a brief introduction to the core methods of statistics and how they are applied, not necessarily in the context of standard models
 
-- Richard Hahn: [Bayesian regression tree models for causal inference](https://arxiv.org/pdf/1706.09523.pdf)
+Jennifer Hill: [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
 
-- Pennington: [Bayesian model averaging](https://doi.org/10.1007/s11222-017-9767-1)
+> This article proposes a strategy that instead focuses on very flexibly modeling just the response surface using a Bayesian nonparametric modeling procedure, Bayesian Additive Regression Trees (BART). BART has several advantages: it is far simpler to use than many recent competitors, requires less guesswork in model fitting, handles a large number of predictors, yields coherent uncertainty intervals, and fluidly handles continuous treatment variables and missing data for the outcome variable. BART also naturally identifies heterogeneous treatment effects. BART produces more accurate estimates of average treatment effects compared to propensity score matching, propensity-weighted estimators, and regression adjustment in the nonlinear simulation situations examined.
 
-- Jennifer Starling: [Bayesian methods for complex data structures](https://repositories.lib.utexas.edu/bitstream/handle/2152/85348/STARLING-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
+Richard Hahn: [Bayesian regression tree models for causal inference](https://arxiv.org/pdf/1706.09523.pdf)
 
-- Iris Koks: [Latent Dirichlet Allocation](https://repository.tudelft.nl/islandora/object/uuid%3Afaa7cd3f-a946-4685-a36e-d01a15c4159e)
+> This paper presents a novel nonlinear regression model for estimating heterogeneous treatment effects from observational data, geared specifically towards situations with small effect sizes, heterogeneous effects, and strong confounding. Standard nonlinear regression models, which may work quite well for prediction, have two notable weaknesses when used to estimate heterogeneous treatment effects. First, they can yield badly biased estimates of treatment effects when fit to data with strong confounding. The Bayesian causal forest model presented in this paper avoids this problem by directly incorporating an estimate of the propensity function in the specification of the response model, implicitly inducing a covariate-dependent prior on the regression function. Second, standard approaches to response surface modeling do not provide adequate control over the strength of regularization over effect heterogeneity. The Bayesian causal forest model permits treatment effect heterogeneity to be regularized separately from the prognostic effect of control variables, making it possible to informatively "shrink to homogeneity". We illustrate these benefits via the reanalysis of an observational study assessing the causal effects of smoking on medical expenditures as well as extensive simulation studies.
 
-- Michael Kane: [Stochastic approximation of Polya urn process](http://www.stat.yale.edu/~mjk56/Research/Optimization/OptFinalKane.pdf)
+Pennington: [Bayesian model averaging](https://doi.org/10.1007/s11222-017-9767-1)
 
-- Mark Ebden: [Gaussian Processes](https://arxiv.org/abs/1505.02965)
+> We propose an alternative fitting algorithm for BART called BART-BMA, which uses Bayesian model averaging and a greedy search algorithm to obtain a posterior distribution more efficiently than BART for datasets with large p. BART-BMA incorporates elements of both BART and random forests to offer a model-based algorithm which can deal with high-dimensional data. We have found that BART-BMA can be run in a reasonable time on a standard laptop for the “small n large p” scenario which is common in many areas of bioinformatics. We showcase this method using simulated data and data from two real proteomic experiments, one to distinguish between patients with cardiovascular disease and controls and another to classify aggressive from non-aggressive prostate cancer.
 
-- Vasilis Vryniotis: [Dirichlet processes](https://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/)
+Jennifer Starling: [Bayesian methods for complex data structures](https://repositories.lib.utexas.edu/bitstream/handle/2152/85348/STARLING-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
 
-- Alessandro Panella: [Nonparametric bayes & Dirichlet proceses](https://www.cs.uic.edu/~apanella/slides/nonparametric_bayes.pdf)
+> This thesis explores novel Bayesian non-parametric regression techniques for
+> data with complex structures, developed in response to challenges in women’s health
+> and obstetrics. Nearly all pregnancy-related research shares a key statistical issue:
+> that most outcomes vary smoothly with gestational age. Models which reflect this
+> smoothness aid in interpretability by aligning model choices with clinical knowledge;
+> from a statistical perspective, smoothing can reduce variance without inflating bias.
+> Existing models tend to smooth over all covariates, or require specification of parametric forms and interactions based on a priori knowledge of maternal and fetal covariates. Current literature does not provide an especially nuanced characterization
+> of these functional forms.
 
-- Guy Wolf: [Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
+Iris Koks: [Latent Dirichlet Allocation](https://repository.tudelft.nl/islandora/object/uuid%3Afaa7cd3f-a946-4685-a36e-d01a15c4159e)
 
-- Alberto Caron: [Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
+> Topic models can extract the main topics from large data sets such as the review data. One of these is Latent Dirichlet Allocation (LDA). LDA is a hierarchical Bayesian topic model that retrieves topics from text data sets in an unsupervised manner. The method assumes that a topic is assigned to each word in a document (review), and aims to retrieve the topic distribution for each document, and a word distribution for each topic. Using the highest probability words from each topic-word distribution, the content of each topic can be determined, such that the main subjects can be derived. Three methods of inference to obtain the topic and word distributions are considered in this research: Gibbs sampling, Variational methods, and Adam optimization to find the posterior mode. Gibbs sampling and Adam optimization have the best theoretical foundations for their application to LDA. From results on artificial and real data sets, it is concluded that Gibbs sampling has the best performance in terms of robustness and perplexity
 
-- Antonio Ricardo: [Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
+Michael Kane: [Stochastic approximation of Polya urn process](http://www.stat.yale.edu/~mjk56/Research/Optimization/OptFinalKane.pdf)
 
-- Jens Hainmueller: [Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
+> This paper begins by describing the Polya urn process. Next, distributions
+> of ball counts and ball proportions are derived. These derivations should
+> provide the reader with an understanding of how urn processes behave.
+> After this intuition is developed, a stochastic approximation of the process
+> is derived. This way, the relationship between the stochastic results and the
+> previously derived results is clear. Finally, a case where the assumptions of
+> stochastic approximation may not hold is introduced and an alternative
+> solution is described.
 
-- Igor Braga: [Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
+Mark Ebden: [Gaussian Processes](https://arxiv.org/abs/1505.02965)
 
-- Yanxun Xu: [Bayesian Nonparametric Estimation for Dynamic Treatment Regimes with Sequential Transition Times](https://arxiv.org/pdf/1405.2656.pdf)
+> A gentle introduction to Gaussian processes (GPs). The three parts of the document consider GPs for regression, classification, and dimensionality reduction.
 
-- António M. Lopes: [Dynamical Analysis of the Dow Jones Index Using Dimensionality Reduction and Visualization](https://www.mdpi.com/1099-4300/23/5/600/html)
+Alessandro Panella: [Nonparametric bayes & Dirichlet proceses](https://www.cs.uic.edu/~apanella/slides/nonparametric_bayes.pdf)
 
-- Mebarka Allaoui: [Considerably Improving Clustering Algorithms Using UMAP Dimensionality Reduction Technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340901/pdf/978-3-030-51935-3_Chapter_34.pdf)
+>
 
-- Qingtao Tang[Student-t Process Regression with ependent Student-t noise](https://dl.acm.org/doi/pdf/10.3233/978-1-61499-672-9-82)
+Guy Wolf: [Diffusion maps](http://mat6480w.guywolf.org/slides/T12%20-%20Diffusion%20Maps.pdf)
 
-- Brendan D. Tracey[Upgrading from Gaussian Processes to Student’s-T Processes](https://arxiv.org/pdf/1801.06147.pdf)
+>
 
-- David Duvenaud[Additive Gaussian Processes](https://arxiv.org/pdf/1112.4394.pdf)
+Alberto Caron: [Sparse Bayesian Causal Forests](https://arxiv.org/abs/2102.06573)
 
-- David Duvenaud [Kernel Cookbook](https://www.cs.toronto.edu/~duvenaud/cookbook/)
+> This paper develops a sparsity-inducing version of Bayesian Causal Forests, a recently proposed nonparametric causal regression model that employs Bayesian Additive Regression Trees and is specifically designed to estimate heterogeneous treatment effects using observational data. The sparsity-inducing component we introduce is motivated by empirical studies where the number of pre-treatment covariates available is non-negligible, leading to different degrees of sparsity underlying the surfaces of interest in the estimation of individual treatment effects. The extended version presented in this work, which we name Sparse Bayesian Causal Forest, is equipped with an additional pair of priors allowing the model to adjust the weight of each covariate through the corresponding number of splits in the tree ensemble. These priors improve the model's adaptability to sparse settings and allow to perform fully Bayesian variable selection in a framework for treatment effects estimation, and thus to uncover the moderating factors driving heterogeneity. In addition, the method allows prior knowledge about the relevant confounding pre-treatment covariates and the relative magnitude of their impact on the outcome to be incorporated in the model. We illustrate the performance of our method in simulated studies, in comparison to Bayesian Causal Forest and other state-of-the-art models, to demonstrate how it scales up with an increasing number of covariates and how it handles strongly confounded scenarios. Finally, we also provide an example of application using real-world data.
 
-- Cagatay Yildiz [LEARNING STOCHASTIC DIFFERENTIAL EQUATIONS WITH GAUSSIAN PROCESSES WITHOUT GRADIENT MATCHING](https://arxiv.org/pdf/1807.05748.pdf)
+Antonio Ricardo: [Bayesian Regression Tree Ensembles that Adapt to Smoothness and Sparsity](https://arxiv.org/pdf/1707.09461)
 
-- Pable Padila [Pricing American Options Using Transition Probabilities: A Dynamical Systems Approach](https://www.scirp.org/journal/paperinformation.aspx?paperid=60395)
+> Ensembles of decision trees are a useful tool for obtaining flexible estimates of regression functions. Examples of these methods include gradient-boosted decision trees, random forests and Bayesian classification and regression trees. Two potential shortcomings of tree ensembles are their lack of smoothness and their vulnerability to the curse of dimensionality. We show that these issues can be overcome by instead considering sparsity inducing soft decision trees in which the decisions are treated as probabilistic. We implement this in the context of the Bayesian additive regression trees framework and illustrate its promising performance through testing on benchmark data sets. We provide strong theoretical support for our methodology by showing that the posterior distribution concentrates at the minimax rate (up to a logarithmic factor) for sparse functions and functions with additive structures in the high dimensional regime where the dimensionality of the covariate space is allowed to grow nearly exponentially in the sample size. Our method also adapts to the unknown smoothness and sparsity levels, and can be implemented by making minimal modifications to existing Bayesian additive regression tree algorithms.
 
-- Gregory Gunderson's blog: [Multicollinearity](http://gregorygundersen.com/blog/)
+Jens Hainmueller: [Kernel Regularized Least Squares: Reducing Misspecification Bias with a Flexible and Interpretable Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2046206)
 
-- Jussi Lindgren [Efficient Markets and Contingent Claims Valuation: An Information Theoretic Approach](https://www.mdpi.com/1099-4300/22/11/1283)
+> We propose the use of Kernel Regularized Least Squares (KRLS) for social science modeling and inference problems. KRLS borrows from machine learning methods designed to solve regression and classification problems without relying on linearity or additivity assumptions. The method constructs a flexible hypothesis space that uses kernels as radial basis functions and finds the best-fitting surface in this space by minimizing a complexity-penalized least squares problem. We argue that the method is well-suited for social science inquiry because it avoids strong parametric assumptions, yet allows interpretation in ways analogous to generalized linear models while also permitting more complex interpretation to examine non-linearities, interactions, and heterogeneous effects. We also extend the method in several directions to make it more effective for social inquiry, by (1) deriving estimators for the pointwise marginal effects and their variances, (2) establishing unbiasedness, consistency, and asymptotic normality of the KRLS estimator under fairly general conditions, (3) proposing a simple automated rule for choosing the kernel bandwidth, and (4) providing companion software. We illustrate the use of the method through simulations and empirical examples.
 
-- Lisandro Kaunitz, Shenjun Zhong, Javier Kreiner [Beating the bookies with their own numbers - and how the online sports betting market is rigged](https://arxiv.org/abs/1710.02824)
+Igor Braga: [Improving the kernel regularized least squares method for small-sample regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003744)
 
-- Tianqi Chen, Emily B. Fox, Carlos Guestrin [Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1402.4102)
+> The kernel regularized least squares (KRLS) method uses the kernel trick to perform non-linear regression estimation. Its performance depends on proper selection of both a kernel function and a regularization parameter. In practice, cross-validation along with the Gaussian RBF kernel have been widely used for carrying out model selection for KRLS. However, when training data is scarce, this combination often leads to poor regression estimation. In order to mitigate this issue, we follow two lines of investigation in this paper. First, we explore a new type of kernel function that is less susceptible to overfitting than the RBF kernel. Then, we consider alternative parameter selection methods that have been shown to perform well for other regression methods. Experiments conducted on real-world datasets show that an additive spline kernel greatly outperforms both the RBF and a previously proposed multiplicative spline kernel. We also find that the parameter selection procedure Finite Prediction Error (FPE) is a competitive alternative to cross-validation when using the additive splines kernel.
 
-- Sergey Lototsky:[Kelly and levy processes](https://arxiv.org/pdf/2002.03448.pdf)
+António M. Lopes: [Dynamical Analysis of the Dow Jones Index Using Dimensionality Reduction and Visualization](https://www.mdpi.com/1099-4300/23/5/600/html)
 
-- Wesselhofft:[Kelly Thesis](https://edoc.hu-berlin.de/bitstream/handle/18452/14923/wesselhoefft.pdf?sequence=1)
+> The paper explores the dynamics of multidimensional data generated by a CS. The Dow Jones Industrial Average (DJIA) index is selected as a test-bed. The DJIA time-series is normalized and segmented into several time window vectors. These vectors are treated as objects that characterize the DJIA dynamical behavior. The objects are then compared by means of different distances to generate proper inputs to dimensionality reduction and information visualization algorithms. These computational techniques produce meaningful representations of the original dataset according to the (dis)similarities between the objects. The time is displayed as a parametric variable and the non-locality can be visualized by the corresponding evolution of points and the formation of clusters. The generated portraits reveal a complex nature, which is further analyzed in terms of the emerging patterns.
 
-- Robin Andersen:[Kelly generalization to games](http://ma.fme.vutbr.cz/archiv/9_2/ma_9_2_andersen_et_al_final.pdf)
+Mebarka Allaoui: [Considerably Improving Clustering Algorithms Using UMAP Dimensionality Reduction Technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340901/pdf/978-3-030-51935-3_Chapter_34.pdf)
 
-- John Felllingham:[Accounting as an information science](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/39171/files/2016/10/acctg-info-science-revision-7-30-17-10zo2pn.pdf)
+> In this paper, we investigate how to improve the performance of several clustering algorithms using one of the most successful embedding techniques: Uniform Manifold Approximation and Projectionor UMAP. This technique has recently been proposed as a manifold learning technique for dimensionality reduction. It is based on Riemannian geometry and algebraic topology. Our main hypothesis is that UMAP would permit to find the best clusterable embedding manifold, and therefore, we applied it as a preprocessing step before performing clustering.
 
-- Ulf Aslak:[Scales of human mobility](https://www.nature.com/articles/s41586-020-2909-1)
+Qingtao Tang: [Student-t Process Regression with dependent Student-t noise](https://dl.acm.org/doi/pdf/10.3233/978-1-61499-672-9-82)
 
-- Esteban Moro:[Resilience patterns in labor markets](https://www.nature.com/articles/s41467-021-22086-3.pdf)
+> Gaussian Process Regression (GPR) is a powerful non-parametric method. However, GPR may perform poorly if the data are contaminated by outliers. To address the issue, we replace the Gaussian process with a Student-t process and introduce dependent Student-t noise in this paper, leading to a Student-t Process Regression with Dependent Student-t noise model (TPRD). Closed form expressions for the marginal likelihood and predictive distribution of TPRD are derived. Besides, TPRD gives a probabilistic interpretation to the Student-t Process Regression with the noise incorporated into its Kernel (TPRK), which is a common approach for the Student-t process regression. Moreover, we analyze the influence of different kernels. If the kernel meets a condition, called β-property here, the maximum marginal likelihood estimation of TPRD’s hyperparameters is independent of the degrees of freedom ν of the Student-t process, which implies that GPR, TPRD and TPRK have exactly the same predictive mean.
 
-- Aaron Clauset: [Scale free networks are rare](https://www.nature.com/articles/s41467-019-08746-5)
+Brendan D. Tracey: [Upgrading from Gaussian Processes to Student’s-T Processes](https://arxiv.org/pdf/1801.06147.pdf)
 
-- Brian Arthur: [Foundations of complexity economics](https://www.nature.com/articles/s42254-020-00273-3)
+> Gaussian process priors are commonly used in aerospace design for performing Bayesian optimization. Nonetheless, Gaussian processes suffer two significant drawbacks: outliers are a priori assumed unlikely, and the posterior variance conditioned on observed data depends only on the locations of those data, not the associated sample values. Student's-T processes are a generalization of Gaussian processes, founded on the Student's-T distribution instead of the Gaussian distribution. Student's-T processes maintain the primary advantages of Gaussian processes (kernel function, analytic update rule) with additional benefits beyond Gaussian processes. The Student's-T distribution has higher Kurtosis than a Gaussian distribution and so outliers are much more likely, and the posterior variance increases or decreases depending on the variance of observed data sample values. Here, we describe Student's-T processes, and discuss their advantages in the context of aerospace optimization. We show how to construct a Student's-T process using a kernel function and how to update the process given new samples. We provide a clear derivation of optimization-relevant quantities such as expected improvement, and contrast with the related computations for Gaussian processes. Finally, we compare the performance of Student's-T processes against Gaussian process on canonical test problems in Bayesian optimization, and apply the Student's-T process to the optimization of an aerostructural design problem.
 
-- Ole Peters:[Ergodicity in economics](https://www.nature.com/articles/s41567-019-0732-0)
+David Duvenaud: [Additive Gaussian Processes](https://arxiv.org/pdf/1112.4394.pdf)
 
-- Roger Farmer:[Quasi Ergodicity and wealth inequality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753978)
+> We introduce a Gaussian process model of functions which are additive. An additive function is one which decomposes into a sum of low-dimensional functions, each depending on only a subset of the input variables. Additive GPs generalize both Generalized Additive Models, and the standard GP models which use squared-exponential kernels. Hyperparameter learning in this model can be seen as Bayesian Hierarchical Kernel Learning (HKL). We introduce an expressive but tractable parameterization of the kernel function, which allows efficient evaluation of all input interaction terms, whose number is exponential in the input dimension. The additional structure discoverable by this model results in increased interpretability, as well as state-of-the-art predictive power in regression tasks.
 
-- Martin Haugh:[MCMC and Bayes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243)
+David Duvenaud: [Kernel Cookbook](https://www.cs.toronto.edu/~duvenaud/cookbook/)
 
-- Martin Haugh:[Extreme Value Theory](https://martin-haugh.github.io/files/QRM/EVT_MasterSlides.pdf)
+Cagatay Yildiz [LEARNING STOCHASTIC DIFFERENTIAL EQUATIONS WITH GAUSSIAN PROCESSES WITHOUT GRADIENT MATCHING](https://arxiv.org/pdf/1807.05748.pdf)
 
-- Umberto Picchini : [Approximate Bayesian Computing](https://www.maths.lu.se/fileadmin/maths/forskning_research/InferPartObsProcess/abc_slides.pdf)
+> We introduce a novel paradigm for learning non-parametric drift and diffusion functions for stochastic differential equation (SDE). The proposed model learns to simulate path distributions that match observations with non-uniform time increments and arbitrary sparseness, which is in contrast with gradient matching that does not optimize simulated responses. We formulate sensitivity equations for learning and demonstrate that our general stochastic distribution optimisation leads to robust and efficient learning of SDE systems.
 
-- Cheng Zhang:[Advanced MCMC](https://zcrabbit.github.io/static/slides/mcs_fall19/lec08.pdf)
+Pable Padila [Pricing American Options Using Transition Probabilities: A Dynamical Systems Approach](https://www.scirp.org/journal/paperinformation.aspx?paperid=60395)
 
-- Cheng Zhang:[Scalable MCMC](https://zcrabbit.github.io/static/slides/mcs_fall19/lec09.pdf)
+> We give a new way to price American options by using Samuelson’s formula. We first obtain the option price corresponding to a European option at time t, weighing it by the probability that the underlying asset takes the value S at time t. We then use Samuelson’s formula with this factor which is given by the solution of the Fokker-Planck (Kolmogorov) equation for the transition probability density. The main advantage of this approach is that we can systematically introduce the effect of macroeconomic factors. If a macroeconomic framework is given by a dynamical system in the form of a set of ordinary differential equations we only have to solve a partial differential equation for the transition probability density. In this context, we verify, for the sake of consistency, that this formula coincides with the Black-Scholes model and compare several numerical implementations.
 
-- Ziyu Wang:[Adaptive and Riemannian manifold MCMC](http://proceedings.mlr.press/v28/wang13e.pdf)
+Jussi Lindgren [Efficient Markets and Contingent Claims Valuation: An Information Theoretic Approach](https://www.mdpi.com/1099-4300/22/11/1283)
 
-- Jiayu Lin:[Dirichlet Distribution](https://mast.queensu.ca/~communications/Papers/msc-jiayu-lin.pdf)
+> This research article shows how the pricing of derivative securities can be seen from the context of stochastic optimal control theory and information theory. The financial market is seen as an information processing system, which optimizes an information functional. An optimization problem is constructed, for which the linearized Hamilton–Jacobi–Bellman equation is the Black–Scholes pricing equation for financial derivatives. The model suggests that one can define a reasonable Hamiltonian for the financial market, which results in an optimal transport equation for the market drift. It is shown that in such a framework, which supports Black–Scholes pricing, the market drift obeys a backwards Burgers equation and that the market reaches a thermodynamical equilibrium, which minimizes the free energy and maximizes entropy.
 
-- Gunduz Caginalp: [Fat tails arise endogenously in asset prices from supply/demand, with or without jump processes](https://arxiv.org/abs/2011.08275)
+Lisandro Kaunitz, Shenjun Zhong, Javier Kreiner [Beating the bookies with their own numbers - and how the online sports betting market is rigged](https://arxiv.org/abs/1710.02824)
 
-- Andrew Gordon Wilson: [Deep Kernel Learning](https://arxiv.org/abs/1511.02222)
+> The online sports gambling industry employs teams of data analysts to build forecast models that turn the odds at sports games in their favour. While several betting strategies have been proposed to beat bookmakers, from expert prediction models and arbitrage strategies to odds bias exploitation, their returns have been inconsistent and it remains to be shown that a betting strategy can outperform the online sports betting market. We designed a strategy to beat football bookmakers with their own numbers. Instead of building a forecasting model to compete with bookmakers predictions, we exploited the probability information implicit in the odds publicly available in the marketplace to find bets with mispriced odds. Our strategy proved profitable in a 10-year historical simulation using closing odds, a 6-month historical simulation using minute to minute odds, and a 5-month period during which we staked real money with the bookmakers (we made code, data and models publicly available). Our results demonstrate that the football betting market is inefficient - bookmakers can be consistently beaten across thousands of games in both simulated environments and real-life betting. We provide a detailed description of our betting experience to illustrate how the sports gambling industry compensates these market inefficiencies with discriminatory practices against successful clients.
 
-- Juan MR Parrondo: [Probability and markov chains](https://3709847b-381c-4df6-b3c2-ae934f357bfd.filesusr.com/ugd/c7de9f_fdb940fff0aa4f2f82bf0b62b124317a.pdf)
+Tianqi Chen, Emily B. Fox, Carlos Guestrin [Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1402.4102)
 
-- Thomas Seyfried:[Cancer as a metabolic disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3941741/)
+> Hamiltonian Monte Carlo (HMC) sampling methods provide a mechanism for defining distant proposals with high acceptance probabilities in a Metropolis-Hastings framework, enabling more efficient exploration of the state space than standard random-walk proposals. The popularity of such methods has grown significantly in recent years. However, a limitation of HMC methods is the required gradient computation for simulation of the Hamiltonian dynamical system-such computation is infeasible in problems involving a large sample size or streaming data. Instead, we must rely on a noisy gradient estimate computed from a subset of the data. In this paper, we explore the properties of such a stochastic gradient HMC approach. Surprisingly, the natural implementation of the stochastic approximation can be arbitrarily bad. To address this problem we introduce a variant that uses second-order Langevin dynamics with a friction term that counteracts the effects of the noisy gradient, maintaining the desired target distribution as the invariant distribution. Results on simulated data validate our theory. We also provide an application of our methods to a classification task using neural networks and to online Bayesian matrix factorization.
 
-- Kshitiz [Evolution of placental invasion and cancer metastasis are causally linked](https://www.nature.com/articles/s41559-019-1046-4)
+John Felllingham:[Accounting as an information science](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/39171/files/2016/10/acctg-info-science-revision-7-30-17-10zo2pn.pdf)
+
+> The paper is a modest attempt at a positive answer to the question about
+> accounting being an information science. The main result is that accounting
+> numbers are a statement about how much information the reporting entity has
+> access to. We do not analyze the communication of the details of the information
+> available to the reporting entity; the entity conveys a measure of the amount
+> of information they hold, not the information itself. The metric for amount of
+> information is Shannon entropyó a function of probabilities (Shannon 1948).
+> Shannonís entropy concept has ampliÖed the importance of information, as it
+> can be treated as a commodity to be accumulated, modiÖed, and transferred;
+> a commodity as important as energy or mass for descriptive content. Some
+> other sciences are routinely referred to as "information sciences," physics, for
+> example, where quantum information is a central idea. Biology, as well, studies
+> the information content of the genetic code. The title of the paper questions
+> whether accounting is properly included as a similar and complementary scientiÖc inquiry.
+
+Ulf Aslak:[Scales of human mobility](https://www.nature.com/articles/s41586-020-2909-1)
+
+Esteban Moro:[Resilience patterns in labor markets](https://www.nature.com/articles/s41467-021-22086-3.pdf)
+
+> In this paper, we model labor market resilience with an ecologically-inspired job network constructed from the similarity of occupations’ skill requirements. This framework reveals that the economic resilience of cities is universally and uniquely determined by the connectivity within a city’s job network. US cities with greater job connectivity experienced lower unemployment during the Great Recession. Further, cities that increase their job connectivity see increasing wage bills, and workers of embedded occupations enjoy higher wages than their peers elsewhere. Finally, we show how job connectivity may clarify the augmenting and deleterious impact of automation in US cities. Policies that promote labor connectivity may grow labor markets and promote economic resilience.
+
+Andrew Gordon Wilson: [Deep Kernel Learning](https://arxiv.org/abs/1511.02222)
+
+> We introduce scalable deep kernels, which combine the structural properties of deep learning architectures with the non-parametric flexibility of kernel methods. Specifically, we transform the inputs of a spectral mixture base kernel with a deep architecture, using local kernel interpolation, inducing points, and structure exploiting (Kronecker and Toeplitz) algebra for a scalable kernel representation. These closed-form kernels can be used as drop-in replacements for standard kernels, with benefits in expressive power and scalability. We jointly learn the properties of these kernels through the marginal likelihood of a Gaussian process. Inference and learning cost O(n) for n training points, and predictions cost O(1) per test point. On a large and diverse collection of applications, including a dataset with 2 million examples, we show improved performance over scalable Gaussian processes with flexible kernel learning models, and stand-alone deep architectures.
+
+Roger Farmer:[Self-Fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753978)
+
+> We construct a model where people trade assets contingent on an observable signal that reflects public opinion. The agents in our model are replaced occasionally and each person updates beliefs in response to observed outcomes. We show that the distribution of the observed signal is described by a quasi non-ergodic process and that people continue to disagree with each other forever. Our model generates large wealth inequalities that arise from the multiplicative nature of wealth dynamics which makes successful bold bets highly profitable. The flip side of this statement is that unsuccessful bold bets are ruinous and lead the person who makes such bets into poverty. People who agree with the market belief have a low expected subjective gain from trading. People who disagree may either become spectacularly rich, or spectacularly poor.
+
+Gunduz Caginalp: [Fat tails arise endogenously in asset prices from supply/demand, with or without jump processes](https://arxiv.org/abs/2011.08275)
+
+> We show that the quotient of Levy processes of jump-diffusion type has a fat-tailed distribution. An application is to price theory in economics. We show that fat tails arise endogenously from modeling of price change based on an excess demand analysis resulting in a quotient of arbitrarily correlated demand and supply whether or not jump discontinuities are present. The assumption is that supply and demand are described by drift terms, Brownian (i.e., Gaussian) and compound Poisson jump processes. If P−1dP/dt (the relative price change in an interval dt) is given by a suitable function of relative excess demand, $\left( \mathcal{D}% -\mathcal{S}\right) /\mathcal{S}$ (where D and S are demand and supply), then the distribution has tail behavior F(x)∼x−ζ for a power ζ that depends on the function G in P−1dP/dt=G(D/S). For G(x)∼|x|1/q one has ζ=q. The empirical data for assets typically yields a value, ζ=~3, or ζ∈[3,5] for some markets.
+> The discrepancy between the empirical result and theory never arises if one models price dynamics using basic economics methodology, i.e., generalized Walrasian adjustment, rather than the usual starting point for classical finance which assumes a normal distribution of price changes. The function G is deterministic, and can be calibrated with a smaller data set. The results establish a simple link between the decay exponent of the density function and the price adjustment function, a feature that can improve methodology for risk assessment.
+> The mathematical results can be applied to other problems involving the relative difference or quotient of Levy processes of jump-diffusion type.
+
+Juan MR Parrondo: [Continuous time markov chains](https://3709847b-381c-4df6-b3c2-ae934f357bfd.filesusr.com/ugd/c7de9f_fdb940fff0aa4f2f82bf0b62b124317a.pdf)
+
+> 1.Probability distributions and
+> densities.
+> 2.Relevant distributions.
+> 3.Change of variable.
+> 4.Stochastic processes.
+> 5.The Markov property.
+> 6.Markov finite chains.
+> 7.Evolution equation.
+> 8.Transient and stationary regimes.
+> 9.A simple example
+
+Thomas Seyfried:[Cancer as a metabolic disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3941741/)
+
+> Emerging evidence indicates that cancer is primarily a metabolic disease involving disturbances in energy production through respiration and fermentation. The genomic instability observed in tumor cells and all other recognized hallmarks of cancer are considered downstream epiphenomena of the initial disturbance of cellular energy metabolism. The disturbances in tumor cell energy metabolism can be linked to abnormalities in the structure and function of the mitochondria. When viewed as a mitochondrial metabolic disease, the evolutionary theory of Lamarck can better explain cancer progression than can the evolutionary theory of Darwin. Cancer growth and progression can be managed following a whole body transition from fermentable metabolites, primarily glucose and glutamine, to respiratory metabolites, primarily ketone bodies. As each individual is a unique metabolic entity, personalization of metabolic therapy as a broad-based cancer treatment strategy will require fine-tuning to match the therapy to an individual’s unique physiology.
+
+Kshitiz [Evolution of placental invasion and cancer metastasis are causally linked](https://www.nature.com/articles/s41559-019-1046-4)
+
+> Among mammals, placental invasion is correlated with vulnerability to malignancy. Animals with more invasive placentation (for example, humans) are more vulnerable to malignancy. To explain this correlation, we propose the hypothesis of ‘Evolved Levels of Invasibility’ proposing that the evolution of invasibility of stromal tissue affects both placental and cancer invasion. We provide evidence for this using an in vitro model. We find that bovine endometrial and skin fibroblasts are more resistant to invasion than are their human counterparts. Gene expression profiling identified genes with high expression in human but not in bovine fibroblasts. Knocking down a subset of them in human fibroblasts leads to stronger resistance to cancer cell invasion. Identifying the evolutionary determinants of stromal invasibility can provide important insights to develop rational antimetastatic therapeutics.
+
+Brian Arthur: [Foundations of complexity economics](https://www.nature.com/articles/s42254-020-00273-3)
+
+> Conventional, neoclassical economics assumes perfectly rational agents (firms, consumers, investors) who face well-defined problems and arrive at optimal behaviour consistent with — in equilibrium with — the overall outcome caused by this behaviour. This rational, equilibrium system produces an elegant economics, but is restrictive and often unrealistic. Complexity economics relaxes these assumptions. It assumes that agents differ, that they have imperfect information about other agents and must, therefore, try to make sense of the situation they face. Agents explore, react and constantly change their actions and strategies in response to the outcome they mutually create. The resulting outcome may not be in equilibrium and may display patterns and emergent phenomena not visible to equilibrium analysis. The economy becomes something not given and existing but constantly forming from a developing set of actions, strategies and beliefs — something not mechanistic, static, timeless and perfect but organic, always creating itself, alive and full of messy vitality.
+
+Umberto Picchini : [Approximate Bayesian Computing](https://www.maths.lu.se/fileadmin/maths/forskning_research/InferPartObsProcess/abc_slides.pdf)
+
+> In this lecture we consider the case where it is not possible to pursue
+> exact inference for model parameters θ, nor it is possible to
+> approximate the likelihood function of θ within a given computational
+> budget and available time
