@@ -18,13 +18,13 @@ Remote Jobs -[Github](https://github.com/atlasmoth/Remotejobs). [Live Demo](http
 
 > Post and find remote jobs. Remoteok.io clone built with mongo db, next.js and stripe, with infinity scroll
 
+Libre Docs -[Github](https://github.com/atlasmoth/Libre-docs). [Live Demo](https://libre-docs.vercel.app/)
+
+> Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,supports real-time file sharing. Press alt + s to save and share with collaborators.
+
 Twitter Clone -[Github](https://github.com/atlasmoth/Twitter-clone)
 
 > Twitter Clone with Node/Express Socketio and MongoDB
-
-Libre Docs -[Github](https://github.com/atlasmoth/Libre-docs).
-
-> Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,next.js and websockets in go
 
 Clubhouse Clone [Github](https://github.com/atlasmoth/Clubhouse-clone). [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
 
