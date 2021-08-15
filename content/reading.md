@@ -2,7 +2,7 @@
 title = "Reading"
 +++
 
-## Statisitics
+## Statisitics/ Probability Theory
 
 Nassim Taleb & Pasquale Cirrilo: [Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
 
@@ -182,6 +182,10 @@ Kshitiz [Evolution of placental invasion and cancer metastasis are causally link
 Brian Arthur: [Foundations of complexity economics](https://www.nature.com/articles/s42254-020-00273-3)
 
 > Conventional, neoclassical economics assumes perfectly rational agents (firms, consumers, investors) who face well-defined problems and arrive at optimal behaviour consistent with — in equilibrium with — the overall outcome caused by this behaviour. This rational, equilibrium system produces an elegant economics, but is restrictive and often unrealistic. Complexity economics relaxes these assumptions. It assumes that agents differ, that they have imperfect information about other agents and must, therefore, try to make sense of the situation they face. Agents explore, react and constantly change their actions and strategies in response to the outcome they mutually create. The resulting outcome may not be in equilibrium and may display patterns and emergent phenomena not visible to equilibrium analysis. The economy becomes something not given and existing but constantly forming from a developing set of actions, strategies and beliefs — something not mechanistic, static, timeless and perfect but organic, always creating itself, alive and full of messy vitality.
+
+Jesse Perla, Thomas J. Sargent and John Stachurski: [Quantitative Economics with Julia](https://julia.quantecon.org/)
+
+> This website presents a set of lectures on quantitative economic modeling, designed and written by Jesse Perla, Thomas J. Sargent and John Stachurski. The language instruction is Julia.
 
 Umberto Picchini : [Approximate Bayesian Computing](https://www.maths.lu.se/fileadmin/maths/forskning_research/InferPartObsProcess/abc_slides.pdf)
 

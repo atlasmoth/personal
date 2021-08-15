@@ -10,6 +10,10 @@ Local Foods - [Github](https://github.com/atlasmoth/local-Foods). [Live App](htt
 
 > Fullstack app to find and book tables at restaurants near you using next.js , mapbox, mongoDB and stripe, db seeded with zomato data from kaggle.
 
+MovieDb - [Github](https://github.com/atlasmoth/moviedb). [Live App](https://moviedb-alpha.vercel.app/)
+
+> Find movies, tv, shows and actors with Next.js and MovieDB API
+
 Resumaker/Resumake Clone - [Github](https://github.com/atlasmoth/Resumake-Clone). [Live App](https://resumake-clone.vercel.app/)
 
 > Generate aesthetic resumes with next.js and PDFmake and export to PDF and JSON.
