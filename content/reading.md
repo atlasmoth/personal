@@ -193,3 +193,7 @@ Umberto Picchini : [Approximate Bayesian Computing](https://www.maths.lu.se/file
 > exact inference for model parameters θ, nor it is possible to
 > approximate the likelihood function of θ within a given computational
 > budget and available time
+
+David Salazar's blog : [Bayesian Instrumental Variable Regression](https://david-salazar.github.io/2020/06/03/bayesian-instrumental-variable-regression/)
+
+> Hi! My name is David Salazar an I am dilettant’n my way into understanding Machine Learning and Data Science in general.
