@@ -30,9 +30,9 @@ Local Foods - [Github](https://github.com/atlasmoth/local-Foods). [Live App](htt
 
 > Fullstack app to find and book tables at restaurants near you using next.js , mapbox, mongoDB and stripe, db seeded with zomato data from kaggle.
 
-Twitter Clone -[Github](https://github.com/atlasmoth/Twitter-clone)
+Price Action -[Github](https://github.com/atlasmoth/crypto). [Live App](https://crypto-peach.vercel.app/)
 
-> Twitter Clone with Node/Express Socketio and MongoDB
+> Search and visualize price action of crypto tokens with coin gecko API, Next.js and plotly.js
 
 Clubhouse Clone [Github](https://github.com/atlasmoth/Clubhouse-clone). [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
 
