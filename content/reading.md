@@ -2,7 +2,7 @@
 title = "Reading"
 +++
 
-## Statisitics/ Probability Theory
+## Technical collectibles from the Internetz
 
 Nassim Taleb & Pasquale Cirrilo: [Tail risk of contagious diseases](https://arxiv.org/abs/2004.08658)
 
@@ -214,3 +214,7 @@ Magnus Wiktorsson:[Valuation of derivative assets](https://canvas.education.lu.s
 
 > Course goals
 > To provide a thorough understanding and insight in the economical and mathematical considerations which underly the valuation of derivatives on financial markets. To provide knowledge about and ability to handle, the models and mathematical tools that are used in financial mathematics. To give a thorough overview concerning the most important types of financial contracts used on the stock- and the interest rate markets and moreover to provide a solid base for understanding contracts that have not been explicitely treated in the course
+
+John Bullinaria:[Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/dsa.html)
+
+> This module will introduce the principal fundamental data structures and algorithms used in computer science. Data structures will be formulated to represent information in such a way that it can be conveniently and efficiently manipulated by the algorithms that are developed. The ideas will be presented abstractly, although examples will be given in the language used in the programming workshop module
