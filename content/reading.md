@@ -197,3 +197,20 @@ Umberto Picchini : [Approximate Bayesian Computing](https://www.maths.lu.se/file
 David Salazar's blog : [Bayesian Instrumental Variable Regression](https://david-salazar.github.io/2020/06/03/bayesian-instrumental-variable-regression/)
 
 > Hi! My name is David Salazar an I am dilettant’n my way into understanding Machine Learning and Data Science in general.
+
+Eric K Zhang : [Statistics 210: Probability I](https://www.ekzhang.com/assets/pdf/Stat_210_Notes.pdf)
+
+> These are notes for Harvard’s Statistics 210, a graduate-level probability class providing foundational material for statistics PhD students, as taught by Joe Blitzstein1 in Fall 2020. It has a history as a long-running statistics requirement at Harvard. We will focus on probability topics applicable to statistics, with a lesser focus on measure theory
+
+Ying Nian Wu : [A Note on Probability Theory](http://www.stat.ucla.edu/~ywu/STATS200AProbability.pdf)
+
+> Notes for STAT200A
+
+Pablo Caceres : [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+
+> This document contains introductory level linear algebra notes for applied machine learning. It is meant as a reference rather than a comprehensive review. If you ever get confused by matrix multiplication, don’t remember what was the L2 norm, or the conditions for linear independence, this can serve as a quick reference. It also a good introduction for people that don’t need a deep understanding of linear algebra, but still want to learn about the fundamentals to read about machine learning or to use pre-packaged machine learning solutions. Further, it is a good source for people that learned linear algebra a while ago and need a refresher
+
+Magnus Wiktorsson:[Valuation of derivative assets](https://canvas.education.lu.se/courses/7379)
+
+> Course goals
+> To provide a thorough understanding and insight in the economical and mathematical considerations which underly the valuation of derivatives on financial markets. To provide knowledge about and ability to handle, the models and mathematical tools that are used in financial mathematics. To give a thorough overview concerning the most important types of financial contracts used on the stock- and the interest rate markets and moreover to provide a solid base for understanding contracts that have not been explicitely treated in the course
