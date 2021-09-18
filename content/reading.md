@@ -218,3 +218,7 @@ Magnus Wiktorsson:[Valuation of derivative assets](https://canvas.education.lu.s
 John Bullinaria:[Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/dsa.html)
 
 > This module will introduce the principal fundamental data structures and algorithms used in computer science. Data structures will be formulated to represent information in such a way that it can be conveniently and efficiently manipulated by the algorithms that are developed. The ideas will be presented abstractly, although examples will be given in the language used in the programming workshop module
+
+Ashenafi A. Yirga[Negative binomial mixed models for analyzing longitudinal CD4 count data](https://www.nature.com/articles/s41598-020-73883-7)
+
+> This paper’s main contribution is the inclusion of the links between CD4 cell count and influencing covariates of biometric and demographic factors. Therefore, this study aims to cope with the statistical challenges of over-dispersion and incorporate within-subject correlation structures by applying NBMMs to longitudinal CD4 count data from the CAPRISA 002 AI Study and also detecting factors that are significantly associated with the response variable.
