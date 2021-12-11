@@ -242,3 +242,7 @@ Yonatan Berman [The Long Run Evolution of Absolute Intergenerational Mobility](h
 Sébastien Farkas [Cyber claim analysis using Generalized Pareto regression trees with applications to insurance](https://www.sciencedirect.com/science/article/abs/pii/S0167668721000330)
 
 > In this paper, we propose a method for cyber claim analysis based on regression trees to identify criteria for claim classification and evaluation. We particularly focus on severe/extreme claims, by combining a Generalized Pareto modeling – legitimate from Extreme Value Theory – and a regression tree approach. Coupled with an evaluation of the frequency, our procedure allows computations of central scenarios and of extreme loss quantiles for a cyber portfolio. Finally, the method is illustrated on a public database.
+
+Robert Chin [Stochastics,Statistics,Skedastics](https://rzch.github.io/pdfs/stochastics-statistics.pdf)
+
+> These are a collection of continuously-evolving notes in probability and statistics, that I started writing as a graduate student. They begin at a high-school or early-undergraduate introduction,and then go on to cover topics mainly from the undergraduate to early-graduate level.
