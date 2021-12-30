@@ -246,3 +246,5 @@ Sébastien Farkas [Cyber claim analysis using Generalized Pareto regression tree
 Robert Chin [Stochastics,Statistics,Skedastics](https://rzch.github.io/pdfs/stochastics-statistics.pdf)
 
 > These are a collection of continuously-evolving notes in probability and statistics, that I started writing as a graduate student. They begin at a high-school or early-undergraduate introduction,and then go on to cover topics mainly from the undergraduate to early-graduate level.
+
+[deep link test](cobble://app/open)
