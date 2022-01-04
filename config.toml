@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false 
 publishDir = "docs"      
-command = "CI= npm run build"
+
 [params]
   author = "Chukwuebuka Osuji"
   description = "Information Scientist and self-taught developer"
