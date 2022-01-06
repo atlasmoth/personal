@@ -4,7 +4,7 @@ theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false 
-publishDir = "docs"      
+publishDir = "public"      
 
 [params]
   author = "Chukwuebuka Osuji"
