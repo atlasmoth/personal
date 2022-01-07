@@ -34,6 +34,10 @@ Price Action -[Github](https://github.com/atlasmoth/crypto). [Live App](https://
 
 > Search and visualize price action of crypto tokens with coin gecko API, Next.js and plotly.js
 
+NYSC Scraper [Github](https://github.com/atlasmoth/NYSC-scraper)
+
+> Scrape NYSC dashboard and clearance page with Node.js and puppeteer. Send screenshots with nodemailer. Exposes a simple GET endpoint for scheduled jobs.
+
 Clubhouse Clone [Github](https://github.com/atlasmoth/Clubhouse-clone). [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
 
 > Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer
