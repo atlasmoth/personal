@@ -10,17 +10,9 @@ MovieDb - [Github](https://github.com/atlasmoth/moviedb). [Live App](https://mov
 
 > Find movies, tv, shows and actors with Next.js and MovieDB API
 
-Resumaker/Resumake Clone - [Github](https://github.com/atlasmoth/Resumake-Clone). [Live App](https://resumake-clone.vercel.app/)
-
-> Generate aesthetic resumes with next.js and PDFmake and export to PDF and JSON.
-
 Remote Jobs -[Github](https://github.com/atlasmoth/Remotejobs). [Live Demo](https://remotejobs-chi.vercel.app/)
 
 > Post and find remote jobs. Remoteok.io clone built with mongo db, next.js and stripe, with infinity scroll
-
-Libre Docs -[Github](https://github.com/atlasmoth/Libre-docs). [Live Demo](https://libre-docs.vercel.app/)
-
-> Libre Docs: Office clone with open source(x-spreadsheets,quill & excalidraw), firebase,supports real-time file sharing. Press alt + s to save and share with collaborators.
 
 Kippa Clone - [Github](https://github.com/atlasmoth/Kippa-clone). [Live Demo](https://kippa-clone.vercel.app)
 
@@ -37,7 +29,3 @@ Price Action -[Github](https://github.com/atlasmoth/crypto). [Live App](https://
 NYSC Scraper [Github](https://github.com/atlasmoth/NYSC-scraper)
 
 > Scrape NYSC dashboard and clearance page with Node.js and puppeteer. Send screenshots with nodemailer. Exposes a simple GET endpoint for scheduled jobs.
-
-Clubhouse Clone [Github](https://github.com/atlasmoth/Clubhouse-clone). [Node js Server](https://github.com/atlasmoth/clubhouse-clone-backend)
-
-> Clubhouse/jam clone with web sockets, mongo change streams, next.js,react-share and simple-peer

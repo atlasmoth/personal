@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am an information scientist, self-taught software developer and decorated competitive debater now building [Cobble](https://www.getcobble.com). I have a bachelor's degree in Library and Information Science from Imo State University (Second Class Upper Division, 4.28/5.0). I previously worked at [BLAS Initiative](https://blasinitiative.org/) while moonlighting as a debate coach. I primarily write code in Javascript (Node/React/Next/React Native) and Go.
+I am an information scientist, self-taught software developer and decorated competitive debater now building [Cobble](https://www.getcobble.com). I have a bachelor's degree in Library and Information Science from Imo State University (Second Class Upper Division, 4.28/5.0). I primarily write code in Javascript (Node/React/Next/React Native) and Go.
 
 ## Contact
 
