@@ -25,7 +25,3 @@ Local Foods - [Github](https://github.com/atlasmoth/local-Foods). [Live App](htt
 Price Action -[Github](https://github.com/atlasmoth/crypto). [Live App](https://crypto-peach.vercel.app/)
 
 > Search and visualize price action of crypto tokens with coin gecko API, Next.js and plotly.js
-
-NYSC Scraper [Github](https://github.com/atlasmoth/NYSC-scraper)
-
-> Scrape NYSC dashboard and clearance page with Node.js and puppeteer. Send screenshots with nodemailer. Exposes a simple GET endpoint for scheduled jobs.
