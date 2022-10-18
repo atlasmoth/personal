@@ -1,0 +1,148 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Experience",
+    "skills": "Skills",
+    "projects": "Personal (fun) projects",
+    "awards": "",
+    "education": "Education"
+  },
+  "basics": {
+    "name": "Chukwuebuka Osuji",
+    "email": "ebuka422@gmail.com",
+    "website": "https://osuji.netlify.app/",
+    "location": {
+      "address": ""
+    },
+    "phone": "+2348142674827 "
+  },
+  "education": [
+    {
+      "location": "Owerri, Imo State",
+      "area": "Library and Information Science",
+      "studyType": "BS",
+      "startDate": "October, 2014 ",
+      "endDate": "October, 2018",
+      "gpa": "4.28",
+      "institution": "Imo State University"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "highlights": [
+        "Built data gateway for  myDATA conversational AI tool in Node.js/Fastify, Prisma, Postgres and typescript. Integrated data sources such as Google analytics, Snowflake, Linkedin and JSON/XLSX/CSV. Wrote unit/integration tests and built CI/CD pipeline with Github actions, deployed to Digital Ocean Kubernetes cluster.",
+        "Wrote documentation for PowerdbyAI and myDATA data gateway with Redocusaurus and OpenAPI specs.",
+        null,
+        "Improved core NLP engine of myDATA conversational AI tool using bayesian methods.",
+        "Built PowerdbyAI, a low code machine learning platform for developers  now in private beta. using Node/Express, typescript, prisma, mongodb and react.  Wrote unit & integration tests , built CI/CD pipeline with Github actions and deployed to Digital Ocean app platform.",
+        "Built company's website as a static export with React.js"
+      ],
+      "position": "Software engineer",
+      "location": "Lagos, Nigeria",
+      "startDate": "Feb 2022",
+      "company": "Analytics Intelligence",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Built Cobble app in react native and Typescript, downloaded by 5000+ users.  Wrote integration tests in Jest and  built CI/CD pipeline in Github actions for deployment to Firebase, App Platform and Playstore.",
+        "Built API for Cobble app in Node.js/Express, Typescript, Prisma and Mongo DB, integrated payments with Paystack, Mono and Okra and credit data fetching and submission to two out of three Credit Bureaus in Nigeria (First Central and CRC).  Built CI/CD pipeline with Github actions, deployed to Digital Ocean droplets.",
+        "Wrote documentation with Swagger and OpenAPI specs."
+      ],
+      "company": "Cobble",
+      "position": "Software engineer",
+      "location": "Lagos, Nigeria",
+      "startDate": "July, 2021",
+      "endDate": "Feb, 2022"
+    },
+    {
+      "highlights": [
+        "Taught fundamental linear algebra, calculus, basic combinatorics and basic tools for data analysis/visualization",
+        "Taught basic programming course  in secondary schools with Python"
+      ],
+      "company": "National Youth Service Corps",
+      "position": "Economics & Math Instructor",
+      "startDate": "March, 2020",
+      "endDate": "March, 2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "HTML&CSS",
+        "Go"
+      ]
+    },
+    {
+      "keywords": [
+        "React/ Next.js",
+        "Firebase/Mongo DB/Postgres",
+        "Node/Express/Fastify",
+        "React Native/Expo"
+      ],
+      "name": "Frameworks & databases"
+    },
+    {
+      "keywords": [
+        "Git/Github",
+        "Probability theory & Statistics"
+      ],
+      "name": "Others"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Local Foods",
+      "description": "Fullstack app to find and book tables at restaurants near you using next.js , mapbox, mongo db and stripe, db seeded with zomato data from kaggle.",
+      "url": "Github - https://github.com/atlasmoth/local-Foods.  Live app - https://local-foods.vercel.app/",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Price Action ",
+      "description": "Search and visualize price action of crypto tokens with coin gecko API, Next.js and plotly.js",
+      "url": "Github - https://github.com/atlasmoth/crypto. Live app - https://crypto-peach.vercel.app/"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "MovieDb",
+      "description": "MovieDB clone - Discover movies, tv, shows and actors with Next.js and MovieDB API",
+      "url": "Github - https://github.com/atlasmoth/moviedb.  Live app - https://moviedb-alpha.vercel.app/"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Remote Jobs",
+      "description": "Post and find remote jobs. Remoteok.io clone built with mongo db, next.js and stripe, with infinity scroll",
+      "url": "Github - https://github.com/atlasmoth/Remotejobs.  Live app https://remotejobs-chi.vercel.app/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
